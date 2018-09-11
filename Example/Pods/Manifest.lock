@@ -1,0 +1,16 @@
+PODS:
+  - WMPCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - WMPCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  WMPCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WMPCategoryKit: 74af100159f9a63d09565a6f7bcddce6e0adf620
+
+PODFILE CHECKSUM: 4a8a74633bf5cff8d79eeda4543141ae42dfcb2c
+
+COCOAPODS: 1.6.0.beta.1
