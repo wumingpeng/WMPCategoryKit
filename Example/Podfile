@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WMPCategoryKit_Example' do
+  pod 'WMPCategoryKit', :path => '../'
+
+  target 'WMPCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
